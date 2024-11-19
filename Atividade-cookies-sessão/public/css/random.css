@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f8f9fa;
+  /* Fundo claro */
+}
+
+.random-number {
+  font-size: 200px;
+  /* Tamanho da fonte bem grande */
+  font-weight: bold;
+  color: #131313;
+  /* Cor do texto */
+}
+
+.container {
+  text-align: center;
+}
+
+.btn-primary {
+  margin-top: 30px;
+}
